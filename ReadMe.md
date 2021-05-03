@@ -40,6 +40,7 @@ significantly cut down on set up time for creating React components.
 To give you a look ahead, a React functional component with NOTHING in it
 looks like this:
 
+```
 import React from 'react'
 
 const ComponentName = () => {
@@ -49,6 +50,6 @@ const ComponentName = () => {
     )
 }
 export default ComponentName
-
+```
 Sure, it's not a LOT, but that's a lot more typing than rafce which is 
 the shortcut with this extension to create a functional component.
